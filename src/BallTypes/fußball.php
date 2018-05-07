@@ -6,9 +6,7 @@
  * Time: 23:11
  */
 
-namespace HTL3R\Balls\Balltypes;
-//interface eibinden
-use HTL3R\Balls\Interfaces\BallInterface as BallInterface;
+namespace htl3r\ajaxball;
 
 
 class Fußball extends AbstractBall implements BallInterface{

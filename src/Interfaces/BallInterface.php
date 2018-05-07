@@ -1,6 +1,6 @@
 <?php
 
-namespace HTL3R\Balls\Interfaces;
+namespace htl3r\ajaxball;
 
 interface BallInterface
 {

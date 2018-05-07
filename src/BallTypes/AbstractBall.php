@@ -1,5 +1,5 @@
 <?php
-    namespace HTL3R\Balls\BallTypes;
+namespace htl3r\ajaxball;
 
     //use HTL3R\Balls\interfaces\BallInterface as BallInterface;
 

@@ -6,9 +6,7 @@
  * Time: 23:12
  */
 
-namespace HTL3R\Balls\Balltypes;
-//interface eibinden
-use HTL3R\Balls\Interfaces\BallInterface as BallInterface;
+namespace htl3r\ajaxball;
 
 
 class Basketball extends AbstractBall implements BallInterface{
