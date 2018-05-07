@@ -1,7 +1,19 @@
 {
-    "name": "htl3r/balls",
-    "description": "demoball shop",
+    "name": "htl3r/ajaxball",
     "type": "library",
     "license": "GPL",
+    "authors": [
+        {
+            "name": "Jean",
+            "email": "jeanawad@outlook.com"
+        }
+    ],
+
+    "autoload": {
+        "psr-4": {
+            "HTL3R\\Balls\\": "src/"
+        }
+    },
+
     "require": {}
 }
